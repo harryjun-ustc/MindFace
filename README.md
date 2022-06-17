@@ -7,7 +7,7 @@ For all main contributors, please check [contributing](#contributing).
 
 ## Top News
 
-**`2022-06-18`**: We have created our official repo about face research MindSpore implementation. 
+**`2022-06-18`**: We have created our official repo about face research based on MindSpore. 
 
 ## License
 
@@ -48,7 +48,7 @@ MindFace efficiently implements a rich variety of state of the art algorithms of
 
 
 
-If you find *InsightFace* useful in your research, please consider to cite the following related papers:
+If you find *MindFace* useful in your research, please consider to cite the following related papers:
 
 ```
 
