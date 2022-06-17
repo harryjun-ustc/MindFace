@@ -37,7 +37,6 @@ MindFace efficiently implements a rich variety of state of the art algorithms of
 
 ## Face Emotion Recognition
 
-## Face Alignment
 
 ## Face Synthesis
 
