@@ -65,7 +65,7 @@ CMIC has received 6 best paper awards from premier conferences, including CVPR M
 
 CMIC has won 24 Grand Challenge Champion Awards from premier conferences, including CVPR, ICCV, MM, ECCV, AAAI, ICME.
 
-Main contributors:
+**Main contributors:**
 
 - [Jun Yu](https://github.com/harryjun-ustc), ``harryjun[at]ustc.edu.cn``
 - Guochen xie, ``xiegc[at]mail.ustc.edu.cn``
