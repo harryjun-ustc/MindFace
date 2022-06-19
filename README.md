@@ -55,7 +55,16 @@ If you find *MindFace* useful in your research, please consider to cite the foll
 ```
 
 ## Contributing
+MindFace is mainly maintained by the Cross-Media Intelligent Computing (**CMIC**) Laboratory, University of Science and Technology of China (**USTC**). 
+```
+The research topics of CMIC include multimedia computing, multi-modal information perception, cognition and synthesis. 
 
+CMIC has published more than 200 journal articles and conference papers, including TPAMI, TIP, TMM, TASLP, TCSVT, TCYB, TITS, TOMM, TCDS, NeurIPS, ACL, CVPR, ICCV, MM, ICLR, SIGGRAPH, VR, AAAI, IJCAI. 
+
+CMIC has received 6 best paper awards from premier conferences, including CVPR MAVOC, ICCV MFR, ICME, FG. 
+
+CMIC has won 24 Grand Challenge Champion Awards from premier conferences, including CVPR, ICCV, MM, ECCV, AAAI, ICME.
+```
 Main contributors:
 
 - [Jun Yu](https://github.com/harryjun-ustc), ``harryjun[at]ustc.edu.cn``
