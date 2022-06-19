@@ -1,7 +1,6 @@
-# MindFace
-State-of-the-art 2D and 3D Face Analysis Project Based on MindSpore
 
-# MindFace: 2D and 3D Face Analysis Project based on HuaWei MindSpore
+# MindFace: 
+2D and 3D Face Modeling, Analysis and Synthesis Project Based on Huawei MindSpore.
 
 For all main contributors, please check [contributing](#contributing).
 
@@ -11,14 +10,14 @@ For all main contributors, please check [contributing](#contributing).
 
 ## License
 
-The code of MindFace is released under the MIT License. There is no limitation for both academic and commercial usage.
+The code of MindFace is released under the MIT License. There is no limitation for academic usage.
 
 The training data containing the annotation (and the models trained with these data) are available for non-commercial research purposes only.
 
 
 ## Introduction
 
-MindFace is an open source 2D&3D deep face analysis toolbox, mainly based on MindSpore. 
+MindFace is an open source 2D&3D deep face research toolbox, mainly based on MindSpore. 
 
 
 MindFace efficiently implements a rich variety of state of the art algorithms of face recognition, face detection , face emotion recognition, face alignment, face synthesis, face counter attack and face anti-spoofing which optimized for both training and deployment.
@@ -55,7 +54,7 @@ If you find *MindFace* useful in your research, please consider to cite the foll
 ```
 ---
 ## Contributing
-*MindFace* is mainly maintained by the Cross-Media Intelligent Computing (**CMIC**) Laboratory, University of Science and Technology of China (**USTC**), and cooperated with Huawei Technologies. 
+*MindFace* is mainly maintained by the Cross-Media Intelligent Computing (**CMIC**) Laboratory, University of Science and Technology of China (**USTC**), and cooperated with Huawei Technologies Co., Ltd. 
 
 The research topics of CMIC include multimedia computing, multi-modal information perception, cognition and synthesis. 
 
