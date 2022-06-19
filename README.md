@@ -55,7 +55,7 @@ If you find *MindFace* useful in your research, please consider to cite the foll
 ```
 ---
 ## Contributing
-MindFace is mainly maintained by the Cross-Media Intelligent Computing (**CMIC**) Laboratory, University of Science and Technology of China (**USTC**). 
+*MindFace* is mainly maintained by the Cross-Media Intelligent Computing (**CMIC**) Laboratory, University of Science and Technology of China (**USTC**). 
 
 The research topics of CMIC include multimedia computing, multi-modal information perception, cognition and synthesis. 
 
