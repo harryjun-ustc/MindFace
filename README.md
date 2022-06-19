@@ -68,11 +68,11 @@ CMIC has won 24 Grand Challenge Champion Awards from premier conferences, includ
 **Main contributors:**
 
 - [Jun Yu](https://github.com/harryjun-ustc), ``harryjun[at]ustc.edu.cn``
+- Shenshen Du, ``dushens[at]mail.ustc.edu.cn``
 - Guochen xie, ``xiegc[at]mail.ustc.edu.cn``
 - Xinlong Hao, ``haoxl[at]mail.ustc.edu.cn``
 - Liwen Zhang, ``zlw1113[at]mail.ustc.edu.cn``
 - Hao Chang, ``changhaoustc[at]mail.ustc.edu.cn``
-- Shenshen Du, ``dushens[at]mail.ustc.edu.cn``
 - Zhongpeng Cai, ``czp_2402242823[at]mail.ustc.edu.cn``
 - Peng He, ``hp0618[at]mail.ustc.edu.cn``
 - Keda Lu, ``wujiekd666[at]gmail.com``
