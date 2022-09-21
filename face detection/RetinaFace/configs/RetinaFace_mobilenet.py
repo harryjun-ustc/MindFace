@@ -36,25 +36,24 @@ cfg_mobile025 = {
     'gamma': 0.1,
 
     # checkpoint
-    'ckpt_path': './checkpoints/',
+    'ckpt_path': './checkpoint/',
     'save_checkpoint_steps': 2000,
     'keep_checkpoint_max': 3,
     'resume_net': None,
 
     # dataset
-    'training_dataset': './data/widerface/WIDER_train/label.txt',
+    'training_dataset': 'data/WiderFace/train/label.txt',
     'pretrain': False,
-    'pretrain_path': './checkpoints/resnet50_ascend_v170_imagenet2012_official_cv_top1acc76.97_top5acc93.44.ckpt',
+    'pretrain_path': None,
 
     # val
-    'val_model': './checkpoints/RetinaFace_8-120_1609.ckpt',
-    'val_dataset_folder': '/data/widerface/WIDER_val/',
-    
+    'val_model': 'pretrained/RetinaFace_MobileNet025.ckpt',
+    'val_dataset_folder': 'data/WiderFace/val/',
     'val_origin_size': False,
     'val_confidence_threshold': 0.02,
     'val_nms_threshold': 0.4,
     'val_iou_threshold': 0.5,
     'val_save_result': False,
     'val_predict_save_folder': './widerface_result',
-    'val_gt_dir': '/home/d1/shihx22/mindspore/retinaface-tf2-master/retinaface-tf2/widerface_evaluate/ground_truth',
+    'val_gt_dir': 'data/WiderFace/ground_truth',
 }
