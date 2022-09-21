@@ -100,5 +100,5 @@ author={Deng, Jiankang and Guo, Jia and Yuxiang, Zhou and Jinke Yu and Irene Kot
 booktitle={arxiv},
 year={2019}
 ```
-## Third-party resources
+
 
