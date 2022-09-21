@@ -32,11 +32,15 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 
     1.1 Git clone this repo
 
-    ```git clone https://github.com/harryjun-ustc/MindFace.git```
+    ```
+    git clone https://github.com/harryjun-ustc/MindFace.git
+    ```
 
     1.2 Install dependencies
 
-    ```pip install -r requirements.txt```
+    ```
+    pip install -r requirements.txt
+    ```
     
 2. Prepare Data
 
