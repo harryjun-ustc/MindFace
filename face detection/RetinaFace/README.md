@@ -49,7 +49,7 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 ## Quick Start
 1. Installation
 
-    1.1 Git clone this repo
+    1.1 Git clone this [repo](https://github.com/harryjun-ustc/MindFace)
 
     ```
     git clone https://github.com/harryjun-ustc/MindFace.git
@@ -109,7 +109,7 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 ## RetinaFace Pretrained Models
 You can download the pretrained model from RetinaFace-ResNet50 ([baidu cloud](link) or [googledrive](link)) and  RetinaFace-MobileNet025 ([baidu cloud](link) or [googledrive](link)). 
 
-You can verify the results in the table with the downloaded pretrained model.
+You can verify the results in the [table](#widerface-val-performance-in-single-scale-when-using-resnet50-as-backbone-net) with the downloaded pretrained model.
 
 
 ## References
