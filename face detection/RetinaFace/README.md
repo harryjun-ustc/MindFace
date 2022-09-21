@@ -44,7 +44,6 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 | Pytorch (original image scale) | 90.70% | 88.16% | 73.82% |
 | Mxnet | 88.72% | 86.97% | 79.19% |
 | Mxnet(original image scale) | 89.58% | 87.11% | 69.12% |
-<p align="center"><img src="curve/Widerface.jpg" width="640"\></p>
 
 
 ## Quick Start
