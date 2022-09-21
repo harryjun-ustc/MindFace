@@ -17,33 +17,33 @@ Comming soon!
 <!--   
 ## WiderFace Val Performance
 
-WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comparing with MxNet implement.
+WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comparing with MXNet implement.
 | Model | Easy-set | Mesium-set | Hard-set |
 | :-- | :-: | :-: | :-: |
 | RetinaFace_mobile025(MindSpore) | 88.62% | 86.96% | 79.93% |
-| RetinaFace_mobile025(MxNet) | 88.72% | 86.97% | 79.19% |
+| RetinaFace_mobile025(MXNet) | 88.72% | 86.97% | 79.19% |
 | RetinaFace_resnet50(MindSpore) | 94.42% | 93.37% | 89.25% |
-| RetinaFace_resnet50(MxNet) | 94.86% | 93.87% | 88.33% | -->
+| RetinaFace_resnet50(MXNet) | 94.86% | 93.87% | 88.33% | -->
 
 ## WiderFace Val Performance in single scale When using Resnet50 as backbone.
 | Style | easy | medium | hard |
 |:-|:-:|:-:|:-:|
-| MindSpore (same parameter with Mxnet) | 94.42% | 93.37% | 89.25% |
+| MindSpore (same parameter with MXNet) | 94.42% | 93.37% | 89.25% |
 | MindSpore (original image scale) | 95.34% | 93.91% | 84.01% |
-| Pytorch (same parameter with Mxnet) | 94.82 % | 93.84% | 89.60% |
-| Pytorch (original image scale) | 95.48% | 94.04% | 84.43% |
-| Mxnet | 94.86% | 93.87% | 88.33% |
-| Mxnet(original image scale) | 94.97% | 93.89% | 82.27% |
+| PyTorch (same parameter with MXNet) | 94.82 % | 93.84% | 89.60% |
+| PyTorch (original image scale) | 95.48% | 94.04% | 84.43% |
+| MXNet | 94.86% | 93.87% | 88.33% |
+| MXNet(original image scale) | 94.97% | 93.89% | 82.27% |
 
 ## WiderFace Val Performance in single scale When using Mobilenet0.25 as backbone.
 | Style | easy | medium | hard |
 |:-|:-:|:-:|:-:|
-| MindSpore (same parameter with Mxnet) | 88.62% | 86.96% | 79.93% |
+| MindSpore (same parameter with MXNet) | 88.62% | 86.96% | 79.93% |
 | MindSpore (original image scale) | 90.73% | 88.24% | 73.87% |
-| Pytorch (same parameter with Mxnet) | 88.67% | 87.09% | 80.99% |
-| Pytorch (original image scale) | 90.70% | 88.16% | 73.82% |
-| Mxnet | 88.72% | 86.97% | 79.19% |
-| Mxnet(original image scale) | 89.58% | 87.11% | 69.12% |
+| PyTorch (same parameter with MXNet) | 88.67% | 87.09% | 80.99% |
+| PyTorch (original image scale) | 90.70% | 88.16% | 73.82% |
+| MXNet | 88.72% | 86.97% | 79.19% |
+| MXNet(original image scale) | 89.58% | 87.11% | 69.12% |
 
 
 ## Quick Start
@@ -114,7 +114,8 @@ You can verify the results in the [table](#widerface-val-performance-in-single-s
 
 
 ## References
-- [Retinaface (mxnet)](https://github.com/deepinsight/insightface/tree/master/RetinaFace)
+- [Retinaface (MXNet)](https://github.com/deepinsight/insightface/tree/master/detection/retinaface)
+- [Retinaface (PyTorch)](https://github.com/biubug6/Pytorch_Retinaface)
 ```
 @inproceedings{deng2019retinaface,
 title={RetinaFace: Single-stage Dense Face Localisation in the Wild},
