@@ -21,7 +21,7 @@ Standard Models.
 
 
 ## Data
-1.Download our annotations (face bounding boxes & five facial landmarks) from [baidu cloud](https://pan.baidu.com/s/1Laby0EctfuJGgGMgRRgykA) or [gdrive](https://drive.google.com/file/d/1BbXxIiY-F74SumCNG6iwmJJ5K3heoemT/view)
+1.Download annotations (face bounding boxes & five facial landmarks) from [baidu cloud](https://pan.baidu.com/s/1Laby0EctfuJGgGMgRRgykA) or [gdrive](https://drive.google.com/file/d/1BbXxIiY-F74SumCNG6iwmJJ5K3heoemT/view)
 
 2.Download the [WIDERFACE dataset](http://shuoyang1213.me/WIDERFACE/)
 
