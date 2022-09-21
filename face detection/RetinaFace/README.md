@@ -25,7 +25,7 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 | RetinaFace_resnet50(MindSpore) | 94.42% | 93.37% | 89.25% |
 | RetinaFace_resnet50(MxNet) | 94.86% | 93.87% | 88.33% | -->
 
-## WiderFace Val Performance in single scale When using Resnet50 as backbone net.
+## WiderFace Val Performance in single scale When using Resnet50 as backbone.
 | Style | easy | medium | hard |
 |:-|:-:|:-:|:-:|
 | MindSpore (same parameter with Mxnet) | 94.42% | 93.37% | 89.25% |
@@ -35,7 +35,7 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 | Mxnet | 94.86% | 93.87% | 88.33% |
 | Mxnet(original image scale) | 94.97% | 93.89% | 82.27% |
 
-## WiderFace Val Performance in single scale When using Mobilenet0.25 as backbone net.
+## WiderFace Val Performance in single scale When using Mobilenet0.25 as backbone.
 | Style | easy | medium | hard |
 |:-|:-:|:-:|:-:|
 | MindSpore (same parameter with Mxnet) | 88.62% | 86.96% | 79.93% |
@@ -85,7 +85,8 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 3. Set Config File
 
     You can Modify the parameters of the config file in ```./configs```.
-    We provide two versions of config for MobileNet0.25 and ResNet50 as backbone.
+
+    We provide two versions of configs (MobileNet0.25 and ResNet50).
 
 4. Train
 
