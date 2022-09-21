@@ -71,11 +71,9 @@ Standard Models.
 
 
 ## RetinaFace Pretrained Models
-Pretrained Model: RetinaFace-R50 ([baidu cloud](link) or [googledrive](link)) is a medium size model with ResNet50 backbone. It can output face bounding boxes and five facial landmarks in a single forward pass.
+You can download the pretrained model from RetinaFace-ResNet50 ([baidu cloud](link) or [googledrive](link)) and  RetinaFace-MobileNet025 ([baidu cloud](link) or [googledrive](link)). 
 
-WiderFace validation mAP: Easy 96.5, Medium 95.6, Hard 90.4.
-
-To avoid the confliction with the WiderFace Challenge (ICCV 2019), we postpone the release time of our best model.
+You can verify the results in the table with the downloaded pretrained model.
 
 
 ## Deployment
