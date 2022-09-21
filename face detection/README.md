@@ -20,10 +20,10 @@ Comming soon!
 WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comparing with MxNet implement.
 | Model | Easy-set | Mesium-set | Hard-set |
 | :-- | :-: | :-: | :-: |
-| RetinaFace_mobile025(MindSpore) | 88.62% | 86.96% | 79.93% |
-| RetinaFace_mobile025(MxNet) | 88.72% | 86.97% | 79.19% |
-| RetinaFace_resnet50(MindSpore) | 94.42% | 93.37% | 89.25% |
-| RetinaFace_resnet50(MxNet) | 94.86% | 93.87% | 88.33% |
+| RetinaFace_mobile025 (MindSpore) | 88.62% | 86.96% | 79.93% |
+| RetinaFace_mobile025 (MxNet) | 88.72% | 86.97% | 79.19% |
+| RetinaFace_resnet50 (MindSpore) | 94.42% | 93.37% | 89.25% |
+| RetinaFace_resnet50 (MxNet) | 94.86% | 93.87% | 88.33% |
 
 
 
