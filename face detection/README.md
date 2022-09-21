@@ -2,7 +2,9 @@
 
 
 ## Introduction
-RetinaFace is a practical single-stage SOTA face detector which is initially introduced in [arXiv technical report](https://arxiv.org/abs/1905.00641v2) and then accepted by [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html). Retinaface was put forward in 2019, and it has the best performance when applied to WIDER FACE dataset. Compared with S3FD and MTCNN, RetinaFace significantly improves the recall rate of small faces, but it is not suitable for multi-scale face detection. In order to solve these problems, RetinaFace uses the RetinaFace feature pyramid structure for feature fusion between different scales, and adds SSH modules.
+MindSpore is a new generation of full-scenario AI computing framework launched by Huawei in August 2019 and released On March 28, 2020.
+RetinaFace is a practical single-stage SOTA face detector which is accepted by [CVPR 2020](https://openaccess.thecvf.com/content_CVPR_2020/html/Deng_RetinaFace_Single-Shot_Multi-Level_Face_Localisation_in_the_Wild_CVPR_2020_paper.html). 
+Retinaface was put forward in 2019, and it has the best performance when applied to WIDER FACE dataset. Compared with S3FD and MTCNN, RetinaFace significantly improves the recall rate of small faces, but it is not suitable for multi-scale face detection. In order to solve these problems, RetinaFace uses the RetinaFace feature pyramid structure for feature fusion between different scales, and adds SSH modules.
 ![retinaface_picture](https://camo.githubusercontent.com/a3fa0edd910b60f94085b14fa1a171bfa30bfea7b9591ca7a380565e4e581b80/68747470733a2f2f696e7369676874666163652e61692f6173736574732f696d672f6769746875622f31313531334430352e6a7067)
 
 
