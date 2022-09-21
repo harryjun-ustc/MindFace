@@ -66,9 +66,7 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
     2.1. Download WIDERFACE dataset and annotations that we used from [baidu cloud](https://pan.baidu.com/s/1eET2kirYbyM04Bg1s12K5g?pwd=jgcf) or [google drive]().
     
 
-    2.2. Download the [WIDERFACE dataset](http://shuoyang1213.me/WIDERFACE/)
-
-    2.3. Organise the dataset directory under MindFace/RetinaFace/ as follows:
+    2.2. Organise the dataset directory under MindFace/RetinaFace/ as follows:
     ```
     data/WiderFace/
         train/
