@@ -42,18 +42,18 @@ cfg_res50 = {
     'resume_net': None,
 
     # dataset
-    'training_dataset': '/home/d1/shihx22/mindspore/retinaface_resnet50/data/widerface/WIDER_train/label.txt',
+    'training_dataset': 'data/WiderFace/train/label.txt',
     'pretrain': True,
-    'pretrain_path': '/home/d1/shihx22/mindspore/retinaface_resnet50/data/resnet50_ascend_v170_imagenet2012_official_cv_top1acc76.97_top5acc93.44.ckpt',
+    'pretrain_path': 'pretrained/resnet50_ascend_v170_imagenet2012_official_cv_top1acc76.97_top5acc93.44.ckpt',
 
     # val
-    'val_model': '/home/d1/shihx22/mindspore/retinaface_resnet50/data/checkpoint/RetinaFace_4-100_1609.ckpt',
-    'val_dataset_folder': '/home/d1/shihx22/mindspore/retinaface_resnet50/data/widerface/WIDER_val/',
+    'val_model': 'pretrained/RetinaFace_ResNet50.ckpt',
+    'val_dataset_folder': 'data/WiderFace/val/',
     'val_origin_size': False,
     'val_confidence_threshold': 0.02,
     'val_nms_threshold': 0.4,
     'val_iou_threshold': 0.5,
     'val_save_result': False,
     'val_predict_save_folder': './widerface_result',
-    'val_gt_dir': '/home/d1/shihx22/mindspore/retinaface-tf2-master/retinaface-tf2/widerface_evaluate/ground_truth',
+    'val_gt_dir': 'data/WiderFace/ground_truth',
 }
