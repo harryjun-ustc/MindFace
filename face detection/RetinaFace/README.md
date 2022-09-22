@@ -58,6 +58,7 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
     1.2 Install dependencies
 
     ```
+    cd MindFace/face detection/RetinaFace
     pip install -r requirements.txt
     ```
 
