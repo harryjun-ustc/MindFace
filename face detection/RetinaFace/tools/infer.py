@@ -127,6 +127,8 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='val')
     parser.add_argument('--backbone_name', type=str, default='ResNet50',
                         help='backbone name')
+    parser.add_argument('--checkpoint', type=str, default='pretrained/RetinaFace_ResNet50.ckpt',
+                        help='checpoint path')                      
     parser.add_argument('--image_path', type=str, default='imgs/0000.jpg',
                         help='image path')
     parser.add_argument('--conf', type=float, default=0.5,
@@ -138,4 +140,5 @@ if __name__ == '__main__':
         config = cfg_mobile025
     config['image_path'] = args.image_path
     config['conf'] = args.conf
+    config['val_model'] = args.checkpoint
     test(cfg=config)
