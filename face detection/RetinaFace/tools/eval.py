@@ -350,7 +350,7 @@ def val(cfg):
                            clip=False)
     else:
         target_size = 1600
-        max_size = 2176
+        max_size = 2160
         priors = prior_box(image_sizes=(max_size, max_size),
                            min_sizes=[[16, 32], [64, 128], [256, 512]],
                            steps=[8, 16, 32],
@@ -433,9 +433,12 @@ if __name__ == '__main__':
     parser = argparse.ArgumentParser(description='val')
     parser.add_argument('--backbone_name', type=str, default='ResNet50',
                         help='backbone name')
+    parser.add_argument('--checkpoint', type=str, default='pretrained/RetinaFace_ResNet50.ckpt',
+                        help='checpoint path')    
     args = parser.parse_args()
     if args.backbone_name == 'ResNet50':
         config = cfg_res50
     elif args.backbone_name == 'MobileNet025':
         config = cfg_mobile025
+    config['val_model'] = args.checkpoint
     val(cfg=config)
