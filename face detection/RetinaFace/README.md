@@ -63,8 +63,9 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 
 2. Prepare Data
 
-    2.1. Download WIDERFACE dataset and annotations that we used from [baidu cloud](https://pan.baidu.com/s/1eET2kirYbyM04Bg1s12K5g?pwd=jgcf) or [google drive]().
+    2.1. Download WIDERFACE dataset and annotations that we used from [baidu cloud](https://pan.baidu.com/s/1eET2kirYbyM04Bg1s12K5g?pwd=jgcf) or [google drive](https://drive.google.com/file/d/1pBHUJRWepXZj-X3Brm0O-nVhTchH11YY/view?usp=sharing).
     
+
 
     2.2. Organise the dataset directory under MindFace/RetinaFace/ as follows:
     ```
@@ -96,12 +97,12 @@ WiderFace Val Performance When using Resnet50 or MobileNet0.25 as backbone, comp
 
 5. Eval
 ```
-    python tools/eval.py --backbone ResNet50 or MobileNet025
+    python tools/eval.py --backbone ResNet50 or MobileNet025 --checkpoint pretrained/weight.ckpt
 ```
 
 6. Predict
 ```
-    python tools/test.py --backbone ResNet50 or MobileNet025 --image_path ./imgs/0000.jpg --conf 0.5
+    python tools/infer.py --backbone ResNet50 or MobileNet025 --checkpoint pretrained/weight.ckpt --image_path ./imgs/0000.jpg --conf 0.5
 ```
 
 
