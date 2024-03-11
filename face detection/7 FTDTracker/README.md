@@ -23,7 +23,7 @@ FDTrack surpasses the previous state-of-the-art (SOTA) methods and has good anti
 
     For this challenge, the  MOT17 and MOT20.
     
-    You can download the dataset from the official site of [MOT challenge](https://motchallenge.net/method/MOT=862&chl=10)
+    You can download the dataset from the official site of [MOT challenge](https://motchallenge.net/)
 
 4. Train
 
