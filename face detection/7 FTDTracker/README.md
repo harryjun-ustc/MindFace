@@ -21,7 +21,7 @@ FDTrack surpasses the previous state-of-the-art (SOTA) methods and has good anti
     ```
 2. Prepare dataset
 
-    For this challenge, the  MOT17 and MOT20.
+    For this challenge, the MOT17 and MOT20 dataset is used.
     
     You can download the dataset from the official site of [MOT challenge](https://motchallenge.net/)
 
