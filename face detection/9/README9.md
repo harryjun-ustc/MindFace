@@ -30,7 +30,7 @@ We consider two kinds of classdependent label noise and one kind of instance-dep
 3. Instance noise (abbreviated as Ins.): the noise is quite realistic, where the probability that an instance is mislabeled depends on its instances/features.
 
 The following table shows the mean and standard deviations of test accuracy (%) on synthetic MNIST, SVHN, CIFAR-10, CIFAR-100, and NEWS. The best 3 experimental results are in bold while the best is underlined.
-![Table9](imgs/Table9_sub.jpg)
+![Table9](Table9_sub.jpg)
 
 
 
