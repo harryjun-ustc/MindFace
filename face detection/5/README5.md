@@ -25,7 +25,7 @@ Comming soon!
 ## Moderate Coreset Performance
 
 Moderate Coreset Performance When extract CIFAR-100 and Tiny-ImageNet, comparing with other methods.
-![Table](imgs/Table5.png)
+![Table](Table5.png)
 
 
 
