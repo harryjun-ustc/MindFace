@@ -39,3 +39,17 @@ FDTrack surpasses the previous state-of-the-art (SOTA) methods and has good anti
 
 ## Updates
 Comming soon!
+
+## References
+- [Multi-Object Tracking: Decoupling Features to Solve the Contradictory Dilemma of Feature Requirements](https://ieeexplore.ieee.org/abstract/document/10053999)
+
+@ARTICLE{10053999,
+  author={Jin, Yan and Gao, Fang and Yu, Jun and Wang, Jiabao and Shuang, Feng},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Multi-Object Tracking: Decoupling Features to Solve the Contradictory Dilemma of Feature Requirements}, 
+  year={2023},
+  volume={33},
+  number={9},
+  pages={5117-5132},
+  keywords={Feature extraction;Target tracking;Task analysis;Training;Data models;Video sequences;Trajectory;Multi-object tracking;decoupling by mutual inhibition;data association;one-shot model;ReID-based tracker},
+  doi={10.1109/TCSVT.2023.3249162}}
