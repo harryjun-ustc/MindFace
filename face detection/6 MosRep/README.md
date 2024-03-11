@@ -48,3 +48,15 @@ Comming soon!
     ```
     python tools/eval.py
     ```
+    
+## References
+- [Mosaic Representation Learning for Self-supervised Visual Pre-training](https://openreview.net/forum?id=JAezPMehaUu)
+```
+@inproceedings{
+wang2023mosaic,
+title={Mosaic Representation Learning for Self-supervised Visual Pre-training},
+author={Zhaoqing Wang and Ziyu Chen and Yaqian Li and Yandong Guo and Jun Yu and Mingming Gong and Tongliang Liu},
+booktitle={The Eleventh International Conference on Learning Representations },
+year={2023},
+url={https://openreview.net/forum?id=JAezPMehaUu}
+}
