@@ -13,3 +13,38 @@ This is a PyTorch implementation of [our paper.](https://openreview.net/pdf?id=J
 ## Updates
 Comming soon!
 
+## Quick Start
+1. Installation
+
+    1.1 Git clone this repo
+
+    ```
+    git clone https://github.com/harryjun-ustc/MindFace.git
+    ```
+
+    1.2 Install dependencies
+
+    ```
+    pip install -r requirements.txt
+    
+    ```
+2. Prepare dataset
+
+   We use webdataset to speed up our training process.
+   To convert the ImageNet dataset into webdataset format, please run:
+   ```
+   python imagenet2wds.py -i $IMAGENET_DIR -o $OUTPUT_FOLDER
+   ```
+
+
+3. Train
+
+    ```
+    python tools/train.py 
+    ```
+
+4. Evaluation
+
+    ```
+    python tools/eval.py
+    ```
