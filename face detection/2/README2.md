@@ -12,7 +12,7 @@ This repository is the mindspore implementation of the [award-winning](https://d
 The spatial attention mechanism is used in the model to better extract visual features, and the Mel-Frequency Cepstral Coefficients technology extracts acoustic features, and a method named modality dropout is added to fusion multimodal features.
 
 As shown in the figure below, on the basis of fusing local inter-frame information through temporal convolutional network, we use the temporal transformer to obtain the global temporal relationship, and use the MFCC to generate audio branch’s feature. Use a timing modeling method similar to video branch to obtain the global timing relationship. Finally, the features of the video and audio are fused into the prediction head to estimate the vector of emotional reaction intensity.）
-![A_Dual_Branch_Network1](imgs/Network2.png)
+![A_Dual_Branch_Network1](Network2.png)
 
 
 
