@@ -42,7 +42,7 @@ Comming soon!
 
 ## References
 - [Multi-Object Tracking: Decoupling Features to Solve the Contradictory Dilemma of Feature Requirements](https://ieeexplore.ieee.org/abstract/document/10053999)
-
+```
 @ARTICLE{10053999,
   author={Jin, Yan and Gao, Fang and Yu, Jun and Wang, Jiabao and Shuang, Feng},
   journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
